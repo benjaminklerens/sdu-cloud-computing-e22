@@ -1,5 +1,5 @@
 const constansts = {
-    serverBaseURL: 'http://localhost:3000'
+    serverBaseURL: 'http://backend.benjaminklerens.com'
 }
 
 export default constansts;
